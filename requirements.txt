@@ -1,16 +1,4 @@
-altair
-argh
-astor
-attrs
-base58
-blinker
-boto3
-botocore
-certifi
-chardet
-Click
-cycler
-decorator
+
 docutils
 entrypoints
 enum-compat
@@ -22,10 +10,6 @@ imblearn
 
 importlib-metadata
 
-
-itsdangerous
-Jinja2
-jmespath
 joblib
 jsonschema
 kiwisolver
@@ -43,11 +27,10 @@ python-dateutil
 pytz
 PyYAML
 requests
-s3transfer
+
 scikit-learn
 scipy
 seaborn
-six
 streamlit
 toml
 toolz
@@ -55,8 +38,6 @@ tornado
 tzlocal
 urllib3
 validators
-watchdog
-Werkzeug
 xgboost
 zipp
 wheel
