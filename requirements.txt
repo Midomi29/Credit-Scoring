@@ -56,4 +56,5 @@ watchdog==0.9.0
 Werkzeug==0.16.0
 xgboost==0.90
 zipp==0.6.0
+setuptools>=58.0.0
 --no-binary :all:
