@@ -1,19 +1,18 @@
 
 docutils
-entrypoints
-enum-compat
+
 Flask
 future
-idna
+
 imbalanced-learn
 imblearn
 
 importlib-metadata
 
 joblib
-jsonschema
-kiwisolver
-MarkupSafe
+
+
+
 matplotlib
 more-itertools
 numpy
@@ -24,8 +23,7 @@ protobuf
 pyparsing
 pyrsistent
 python-dateutil
-pytz
-PyYAML
+
 requests
 
 scikit-learn
@@ -35,8 +33,7 @@ streamlit
 toml
 toolz
 tornado
-tzlocal
-urllib3
+
 validators
 xgboost
 zipp
