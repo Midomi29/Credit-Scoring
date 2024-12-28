@@ -1,14 +1,5 @@
 
 
-
-
-
-
-
-
-
-entrypoints
-enum-compat
 Flask
 future
 idna
@@ -22,7 +13,6 @@ itsdangerous
 Jinja2
 jmespath
 joblib
-jsonschema
 kiwisolver
 MarkupSafe
 matplotlib
@@ -43,13 +33,9 @@ scipy
 seaborn
 
 streamlit
-toml
-toolz
-tornado
-tzlocal
-urllib3
+
 validators
-watchdog
-Werkzeug
+
+
 xgboost
 zipp
